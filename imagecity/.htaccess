@@ -1,0 +1,9 @@
+RewriteEngine on
+# Checks if the requested url path exists with .php, and if so, 
+#it allows the RewriteRule to do so.
+RewriteCond %{REQUEST_FILENAME}.php -f
+# Rewrite to append “.php” to extensionless URL-path
+
+
+#RewriteRule ^(([^/]+/)*[^.]+)$ $1.php [L]
+RewriteRule ^(([^/]+/)*[^.]+)$ $1.php [L]
