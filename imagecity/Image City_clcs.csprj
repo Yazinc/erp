@@ -1,0 +1,590 @@
+<codestructure version="5.11">
+<phptree>
+<treenode node="../../classes/class_db.php;PHP:PHP Include;D:\www\imagecity\modules\vendor\index.php;f15;10;41;10;;D:\www\imagecity\modules\vendor\vendor_list.php;f15;0;41;0;;D:\www\imagecity\modules\vendor\new_vendor.php;f16;0;42;0;;D:\www\imagecity\modules\company\Codelobster0.php;f16;0;42;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../classes/class_db.php;PHP:PHP Include;D:\www\imagecity\modules\index.php;f15;0;38;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../modules/vendor/edit_vendor.php;PHP:PHP Include;D:\www\imagecity\modules\index.php;f14;7;47;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../modules/vendor/new_vendor.php;PHP:PHP Include;D:\www\imagecity\modules\index.php;f27;99;59;99;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../classes/class_db.php;PHP:PHP Include;D:\www\imagecity\modules\Codelobster0.php;f15;0;38;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../classes/class_db.php;PHP:PHP Include;D:\www\imagecity\vendor\Codelobster0.php;f15;0;38;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../email/src/Exception.php;PHP:PHP Include;D:\www\imagecity\news\views\email.php;f9;13;38;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../email/src/PHPMailer.php;PHP:PHP Include;D:\www\imagecity\news\views\email.php;f9;14;38;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../email/src/SMTP.php;PHP:PHP Include;D:\www\imagecity\news\views\email.php;f9;15;33;15;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../db_config.php;PHP:PHP Include;D:\www\imagecity\deadlock\install\upgrade.php;f9;21;25;21;;D:\www\imagecity\deadlock\install\install.php;f9;21;25;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../version.php;PHP:PHP Include;D:\www\imagecity\deadlock\install\upgrade.php;f14;30;28;30;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ACTIVE_PASS_PAGE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;26;24;26;;;;vpos;;v;;rAPPLICATION_PATH.&quot;activate_password.php&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ADMIN_MAIL;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;37;18;37;;;;vpos;;v;;r&quot;contact@domain.com&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ADMIN_NAME;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;38;18;38;;;;vpos;;v;;r&quot;The site admin&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ADMIN_PAGE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;28;18;28;;;;vpos;;v;;rAPPLICATION_PATH.&quot;admin_user.php&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="APPLICATION_PATH;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;6;24;6;;;;vpos;;v;;r$sec_path;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="CLASS_PATH;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;4;18;4;;;;vpos;;v;;rdirname($_SERVER[&apos;PHP_SELF&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="COOKIE_NAME;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;45;19;45;;;;vpos;;v;;r&quot;user&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="COOKIE_PATH;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;46;19;46;;;;vpos;;v;;rAPPLICATION_PATH;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="COUNTRY_TABLE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;20;21;20;;;;vpos;;v;;rDB_NAME.&quot;.countries&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_ACCESS_LEVEL;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;49;28;49;;;;vpos;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_ADMIN_LEVEL;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;50;27;50;;;;vpos;;v;;r10;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DENY_ACCESS_PAGE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;27;24;27;;;;vpos;;v;;rAPPLICATION_PATH.&quot;deny_access.php&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LOGIN_LENGTH;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;42;20;42;;;;vpos;;v;;r6;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LOGIN_PAGE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;24;18;24;;;;vpos;;v;;rCLASS_PATH.&quot;login.php&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LOGOUT_PAGE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;29;19;29;;;;vpos;;v;;rAPPLICATION_PATH.&quot;logout.php&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_ACCESS_LEVEL;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;48;24;48;;;;vpos;;v;;r10;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MIN_ACCESS_LEVEL;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;47;24;47;;;;vpos;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PHP_MAILER_SMTP;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;54;23;54;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PROFILE_TABLE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;19;21;19;;;;vpos;;v;;rDB_NAME.&quot;.users_profile&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PW_LENGTH;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;41;17;41;;;;vpos;;v;;r4;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SECRET_STRING;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;43;21;43;;;;vpos;;v;;r&quot;tellme&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SESSION_TABLE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;21;21;21;;;;vpos;;v;;rDB_NAME.&quot;.sessions&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SMTP_LOGIN;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f9;59;19;59;;;;vpos;;v;;r&quot;login&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SMTP_PASSWD;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f9;60;20;60;;;;vpos;;v;;r&quot;password&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SMTP_SERVER;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f9;58;20;58;;;;vpos;;v;;r&quot;mail.domain.com&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="START_PAGE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;25;18;25;;;;vpos;;v;;r&quot;/classes/access_user/example.php&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="TBL_USERFIELD_1;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;71;23;71;;;;vpos;;v;;r&quot;user_1&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="TBL_USERFIELD_2;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;72;23;72;;;;vpos;;v;;r&quot;user_2&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="TBL_USERFIELD_3;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;73;23;73;;;;vpos;;v;;r&quot;user_3&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="TBL_USERFIELD_4;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;74;23;74;;;;vpos;;v;;r&quot;user_4&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="TBL_USERFIELD_5;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;75;23;75;;;;vpos;;v;;r&quot;user_5&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="TBL_USERFIELD_6;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;76;23;76;;;;vpos;;v;;r&quot;user_6&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="UPDATE_PROFILE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;30;22;30;;;;vpos;;v;;rAPPLICATION_PATH.&quot;update_user_profile.php&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USE_MYSQL_SESSIONS;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;11;26;11;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USE_PHP_MAILER;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;53;22;53;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USER_TABLE;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;18;18;18;;;;vpos;;v;;rDB_NAME.&quot;.users&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="users.php;PHP:PHP Include;D:\www\imagecity\users\index.php;f15;16;24;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBMASTER_MAIL;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;35;22;35;;;;vpos;;v;;r&quot;mail@domain.com&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBMASTER_NAME;PHP:PHP Word;D:\www\imagecity\__setups\access_user\access_user\db_config.php;f8;36;22;36;;;;vpos;;v;;r&quot;The webmaster&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Access_user;PHP:Class Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f0;33;1;664;;;;vpos;;v;;r;;d18,33;;b0,0;;m">
+<treenode node="access_page;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;196;2;208;;;;vpos;;v;;r;;d76,196;;b0,0;;mrefer;;pqs;;plevel;;p">
+</treenode>
+<treenode node="Access_user;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;66;2;78;;;;vpos;;v;;r;;d40,66;;b0,0;;mredirect;;p">
+</treenode>
+<treenode node="activate_account;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;379;2;407;;;;vpos;;v;;r;;d51,379;;b0,0;;mactivate_key;;pkey_id;;p">
+</treenode>
+<treenode node="activate_new_password;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;450;2;464;;;;vpos;;v;;r;;d69,450;;b0,0;;mnew_pass;;pnew_confirm;;pverif_str;;p">
+</treenode>
+<treenode node="check_activation_password;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;431;2;449;;;;vpos;;v;;r;;d51,431;;b0,0;;mcontrole_str;;p">
+</treenode>
+<treenode node="check_email;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;288;2;294;;;;vpos;;v;;r;;d37,288;;b0,0;;mmail_address;;p">
+</treenode>
+<treenode node="check_new_password;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;275;2;287;;;;vpos;;v;;r;;d49,275;;b0,0;;mpass;;ppw_conform;;p">
+</treenode>
+<treenode node="check_user;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;82;2;109;;;;vpos;;v;;r;;d33,82;;b0,0;;mpass;;p">
+</treenode>
+<treenode node="connect_db;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;134;2;137;;;;vpos;;v;;r;;d23,134;;b0,0;;m">
+</treenode>
+<treenode node="forgot_password;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;408;2;430;;;;vpos;;v;;r;;d41,408;;b0,0;;mforgot_email;;p">
+</treenode>
+<treenode node="get_access_level;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;111;2;118;;;;vpos;;v;;r;;d29,111;;b0,0;;m">
+</treenode>
+<treenode node="get_user_info;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;209;2;216;;;;vpos;;v;;r;;d26,209;;b0,0;;m">
+</treenode>
+<treenode node="ins_string;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;295;2;319;;;;vpos;;v;;r;;d29,295;;b0,0;;mvalue;;p">
+</treenode>
+<treenode node="log_out;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;188;2;195;;;;vpos;;v;;r;;d20,188;;b0,0;;m">
+</treenode>
+<treenode node="login_reader;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;170;2;182;;;;vpos;;v;;r;;d25,170;;b0,0;;m">
+</treenode>
+<treenode node="login_saver;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;157;2;169;;;;vpos;;v;;r;;d24,157;;b0,0;;m">
+</treenode>
+<treenode node="login_user;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;140;2;156;;;;vpos;;v;;r;;d39,140;;b0,0;;muser;;ppassword;;p">
+</treenode>
+<treenode node="messages;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;518;2;663;;;;vpos;;v;;r;;d25,518;;b0,0;;mnum;;p">
+</treenode>
+<treenode node="reg_visit;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;184;2;187;;;;vpos;;v;;r;;d35,184;;b0,0;;mlogin;;ppass;;p">
+</treenode>
+<treenode node="register_user;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;320;2;359;;;;vpos;;v;;r;;d114,320;;b0,0;;mfirst_login;;pfirst_password;;pconfirm_password;;pfirst_name;;pfirst_info;;pfirst_email;;p">
+</treenode>
+<treenode node="send_confirmation;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;465;2;476;;;;vpos;;v;;r;;d33,465;;b0,0;;mid;;p">
+</treenode>
+<treenode node="send_mail;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;478;2;515;;;;vpos;;v;;r;;d79,478;;b0,0;;mmail_address;;pmsg;;psubj;;psend_admin;;p">
+</treenode>
+<treenode node="set_user;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;119;2;133;;;;vpos;;v;;r;;d31,119;;b0,0;;mgoto_page;;p">
+</treenode>
+<treenode node="update_user;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;217;2;274;;;;vpos;;v;;r;;d84,217;;b0,0;;mnew_password;;pnew_confirm;;pnew_name;;pnew_info;;pnew_mail;;p">
+</treenode>
+<treenode node="validate_email;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\access_user_class.php;f1;360;2;376;;;;vpos;;v;;r;;d51,360;;b0,0;;mvalidation_key;;pkey_id;;p">
+</treenode>
+</treenode>
+<treenode node="Admin_user;PHP:Class Name;D:\www\imagecity\__setups\access_user\access_user\admin_user.php;f0;3;1;86;;;;vpos;;vAccess_user;;c;;r;;d37,3;;b0,0;;m">
+<treenode node="access_level_menu;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\admin_user.php;f1;65;2;74;;;;vpos;;v;;r;;d66,65;;b0,0;;mcurr_level;;pelement_name;;p">
+</treenode>
+<treenode node="activation_switch;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\admin_user.php;f1;76;2;85;;;;vpos;;v;;r;;d57,76;;b0,0;;mformelement;;p">
+</treenode>
+<treenode node="get_userdata;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\admin_user.php;f1;12;2;36;;;;vpos;;v;;r;;d51,12;;b0,0;;mfor_user;;ptype;;p">
+</treenode>
+<treenode node="update_user_by_admin;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\admin_user.php;f1;37;2;64;;;;vpos;;v;;r;;d107,37;;b0,0;;mnew_level;;puser_id;;pdef_pass;;pnew_email;;pactive;;pconfirmation;;p">
+</treenode>
+</treenode>
+<treenode node="dbs;PHP:Class Name;D:\www\imagecity\classes\class_db.php;f0;11;3;19;;;;vpos;;v;;r;;d10,11;;b0,0;;m">
+<treenode node="db_connect;PHP:Function Name;D:\www\imagecity\classes\class_db.php;f1;13;2;19;;;;vpos;;v;;r;;d22,13;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="Exception;PHP:Class Name;D:\www\imagecity\email\src\Exception.php;f0;27;1;38;;;;vpos;;vException;;c;;r Definition     class Exception extends \Exception  Description      PHPMailer exception handler.;;d0,28;;b0,0;;m">
+<treenode node="errorMessage;PHP:Function Name;D:\www\imagecity\email\src\Exception.php;f11;34;5;37;;;;vpos;;vstring;;r Definition     errorMessage()  Description      Prettify error message output.;;d4,35;;b1,0;;m">
+</treenode>
+</treenode>
+<treenode node="OAuth;PHP:Class Name;D:\www\imagecity\email\src\OAuth.php;f0;34;1;137;;;;vpos;;v;;r Definition     class OAuth  Description      OAuth - OAuth2 authentication wrapper class. Uses the oauth2-client package from the League of Extraordinary Packages.;;d0,35;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;D:\www\imagecity\email\src\OAuth.php;f11;85;5;92;;;;vpos;;v;;r Definition     __construct($options)  Description      OAuth constructor.  Parameters:     array $options - Associative array containing;;d4,86;;b1,0;;marray $options;;p">
+</treenode>
+<treenode node="getGrant;PHP:Function Name;D:\www\imagecity\email\src\OAuth.php;f14;99;5;102;;;;vpos;;vRefreshToken;;r Definition     getGrant()  Description      Get a new RefreshToken.;;d4,100;;b2,0;;m">
+</treenode>
+<treenode node="getOauth64;PHP:Function Name;D:\www\imagecity\email\src\OAuth.php;f11;122;5;136;;;;vpos;;vstring;;r Definition     getOauth64()  Description      Generate a base64-encoded OAuth token.;;d4,123;;b1,0;;m">
+</treenode>
+<treenode node="getToken;PHP:Function Name;D:\www\imagecity\email\src\OAuth.php;f14;109;5;115;;;;vpos;;vAccessToken;;r Definition     getToken()  Description      Get a new AccessToken.;;d4,110;;b2,0;;m">
+</treenode>
+</treenode>
+<treenode node="PHPMailer;PHP:Class Name;D:\www\imagecity\email\src\PHPMailer.php;f0;30;1;4386;;;;vpos;;v;;r Definition     class PHPMailer  Description      PHPMailer - PHP email transport class;;d0,20;;b0,0;;m">
+<treenode node="MAX_LINE_LENGTH;PHP:PHP Word;D:\www\imagecity\email\src\PHPMailer.php;f9;706;25;706;;;;vposint;;v;;r998;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="STD_LINE_LENGTH;PHP:PHP Word;D:\www\imagecity\email\src\PHPMailer.php;f9;713;25;713;;;;vposint;;v;;r78;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="STOP_CONTINUE;PHP:PHP Word;D:\www\imagecity\email\src\PHPMailer.php;f9;685;23;685;;;;vposint;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="STOP_CRITICAL;PHP:PHP Word;D:\www\imagecity\email\src\PHPMailer.php;f9;692;23;692;;;;vposint;;v;;r2;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="STOP_MESSAGE;PHP:PHP Word;D:\www\imagecity\email\src\PHPMailer.php;f9;678;22;678;;;;vposint;;v;;r0;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="VERSION;PHP:PHP Word;D:\www\imagecity\email\src\PHPMailer.php;f9;671;17;671;;;;vposstring;;v;;r&apos;6.0.1&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="__construct;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;720;5;727;;;;vpos;;v;;r Definition     __construct($exceptions = null)  Description      Constructor.  Parameters:     bool $exceptions - Should we throw external exceptions?;;d4,721;;b1,0;;mbool $exceptions;;p">
+</treenode>
+<treenode node="__destruct;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;732;5;736;;;;vpos;;v;;r Definition     __destruct()  Description      Destructor.;;d4,733;;b1,0;;m">
+</treenode>
+<treenode node="_mime_types;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;3799;5;3907;;;;vpos;;vstring;;r Definition     _mime_types($ext = &apos;&apos;)  Description      Get the MIME type for a file extension.  Parameters:     string $ext - File extension  Return:    MIME type of file;;d4,3800;;b1,5;;mstring $ext;;p">
+</treenode>
+<treenode node="addAddress;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;896;5;899;;;;vpos;;vbool;;r Definition     addAddress($address, $name = &apos;&apos;)  Description      Add a &quot;To&quot; address.  Parameters:     string $address - The email address to send to     string $name  Return:    true on success, false if address already used or invalid in some way;;d4,897;;b1,0;;mstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addAnAddress;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;1006;5;1044;;;;vpos;;vbool;;r Definition     addAnAddress($kind, $address, $name = &apos;&apos;)  Description      Add an address to one of the recipient arrays or to the ReplyTo array. Addresses that have been added already return false, but do not throw exceptions.  Parameters:     string $kind - One of &apos;to&apos;, &apos;cc&apos;, &apos;bcc&apos;, or &apos;ReplyTo&apos;     string $address - The email address to send, resp     string $name  Return:    true on success, false if address already used or invalid in some way;;d4,1007;;b2,0;;mstring $kind;;pstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addAttachment;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2740;5;2778;;;;vpos;;vbool;;r Definition     addAttachment($path, $name = &apos;&apos;, $encoding = &apos;base64&apos;, $type = &apos;&apos;, $disposition = &apos;attachment&apos;)  Description      Add an attachment from a path on the filesystem. Never use a user-supplied path to a file! Returns false if the file could not be found or read.  Parameters:     string $path - Path to the attachment     string $name - Overrides the attachment name     string $encoding - File encoding (see $Encoding)     string $type - File extension (MIME) type     string $disposition - Disposition to use;;d4,2741;;b1,0;;mstring $path;;pstring $name;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="addBCC;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;922;5;925;;;;vpos;;vbool;;r Definition     addBCC($address, $name = &apos;&apos;)  Description      Add a &quot;BCC&quot; address.  Parameters:     string $address - The email address to send to     string $name  Return:    true on success, false if address already used or invalid in some way;;d4,923;;b1,0;;mstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addCC;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;909;5;912;;;;vpos;;vbool;;r Definition     addCC($address, $name = &apos;&apos;)  Description      Add a &quot;CC&quot; address.  Parameters:     string $address - The email address to send to     string $name  Return:    true on success, false if address already used or invalid in some way;;d4,910;;b1,0;;mstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addCustomHeader;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3634;5;3642;;;;vpos;;v;;r Definition     addCustomHeader($name, $value = null)  Description      Add a custom header. $name value can be overloaded to contain both header name and value (name:value).  Parameters:     string $name - Custom header name     string|null $value - Header value;;d4,3635;;b1,0;;mstring $name;;pstring|null $value;;p">
+</treenode>
+<treenode node="addEmbeddedImage;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3263;5;3294;;;;vpos;;vbool;;r Definition     addEmbeddedImage($path, $cid, $name = &apos;&apos;, $encoding = &apos;base64&apos;, $type = &apos;&apos;, $disposition = &apos;inline&apos;)  Description      Add an embedded (inline) attachment from a file. This can include images, sounds, and just about any other document type. These differ from &apos;regular&apos; attachments in that they are intended to be displayed inline with the message, not just attached for download. This is used in HTML messages that embed the images the HTML refers to using the $cid value. Never use a user-supplied path to a file!  Parameters:     string $path - Path to the attachment     string $cid - Content ID of the attachment;s Use this to reference     string $name - Overrides the attachment name     string $encoding - File encoding (see $Encoding)     string $type - File MIME type     string $disposition - Disposition to use  Return:    True on successfully adding an attachment;;d4,3264;;b1,0;;mstring $path;;pstring $cid;;pstring $name;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="addOrEnqueueAnAddress;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;954;5;992;;;;vpos;;vbool;;r Definition     addOrEnqueueAnAddress($kind, $address, $name)  Description      Add an address to one of the recipient arrays or to the ReplyTo array. Because PHPMailer can&apos;t validate addresses with an IDN without knowing the PHPMailer::$CharSet (that can still be modified after calling this function), addition of such addresses is delayed until send(). Addresses that have been added already return false, but do not throw exceptions.  Parameters:     string $kind - One of &apos;to&apos;, &apos;cc&apos;, &apos;bcc&apos;, or &apos;ReplyTo&apos;     string $address - The email address to send, resp     string $name  Return:    true on success, false if address already used or invalid in some way;;d4,955;;b2,0;;mstring $kind;;pstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addrAppend;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2025;5;2033;;;;vpos;;vstring;;r Definition     addrAppend($type, $addr)  Description      Create recipient headers.  Parameters:     string $type     array $addr - An array of recipients,;;d4,2026;;b1,0;;mstring $type;;parray $addr;;p">
+</treenode>
+<treenode node="addReplyTo;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;935;5;938;;;;vpos;;vbool;;r Definition     addReplyTo($address, $name = &apos;&apos;)  Description      Add a &quot;Reply-To&quot; address.  Parameters:     string $address - The email address to reply to     string $name  Return:    true on success, false if address already used or invalid in some way;;d4,936;;b1,0;;mstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addrFormat;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2043;5;2052;;;;vpos;;vstring;;r Definition     addrFormat($addr)  Description      Format an address for use in a message header.  Parameters:     array $addr - A 2-element indexed array, element 0 containing an address, element 1 containing a name like;;d4,2044;;b1,0;;marray $addr;;p">
+</treenode>
+<treenode node="addStringAttachment;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3220;5;3242;;;;vpos;;v;;r Definition     addStringAttachment(         $string,         $filename,         $encoding = &apos;base64&apos;,         $type = &apos;&apos;,         $disposition = &apos;attachment&apos;     )  Description      Add a string or binary attachment (non-filesystem). This method can be used to attach ascii or binary data, such as a BLOB record from a database.  Parameters:     string $string - String attachment data     string $filename - Name of the attachment     string $encoding - File encoding (see $Encoding)     string $type - File extension (MIME) type     string $disposition - Disposition to use;;d6,3226;;b1,0;;mstring $string;;pstring $filename;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="addStringEmbeddedImage;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3312;5;3338;;;;vpos;;vbool;;r Definition     addStringEmbeddedImage(         $string,         $cid,         $name = &apos;&apos;,         $encoding = &apos;base64&apos;,         $type = &apos;&apos;,         $disposition = &apos;inline&apos;     )  Description      Add an embedded stringified attachment. This can include images, sounds, and just about any other document type. Be sure to set the $type to an image type for images: JPEG images use &apos;image/jpeg&apos;, GIF uses &apos;image/gif&apos;, PNG uses &apos;image/png&apos;.  Parameters:     string $string - The attachment binary data     string $cid - Content ID of the attachment;s Use this to reference     string $name     string $encoding - File encoding (see $Encoding)     string $type - MIME type     string $disposition - Disposition to use  Return:    True on successfully adding an attachment;;d6,3319;;b1,0;;mstring $string;;pstring $cid;;pstring $name;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="alternativeExists;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3395;5;3398;;;;vpos;;vbool;;r Definition     alternativeExists()  Description      Check if this message has an alternative body set.;;d4,3396;;b1,0;;m">
+</treenode>
+<treenode node="attachAll;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;2799;5;2909;;;;vpos;;vstring;;r Definition     attachAll($disposition_type, $boundary)  Description      Attach all file, string, and binary attachments to the message. Returns an empty string on failure.  Parameters:     string $disposition_type     string $boundary;;d4,2800;;b2,0;;mstring $disposition_type;;pstring $boundary;;p">
+</treenode>
+<treenode node="attachmentExists;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3379;5;3388;;;;vpos;;vbool;;r Definition     attachmentExists()  Description      Check if an attachment (non-inline) is present.;;d4,3380;;b1,0;;m">
+</treenode>
+<treenode node="base64EncodeWrapMB;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3111;5;3141;;;;vpos;;vstring;;r Definition     base64EncodeWrapMB($str, $linebreak = null)  Description      Encode and wrap long multibyte strings for mail headers without breaking lines within a character. Adapted from a function by paravoid.  Parameters:     string $str - multi-byte text to wrap encode     string $linebreak - string to use as linefeed/end-of-line;;d4,3112;;b1,0;;mstring $str;;pstring $linebreak;;p">
+</treenode>
+<treenode node="cidExists;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;3347;5;3356;;;;vpos;;vbool;;r Definition     cidExists($cid)  Description      Check if an embedded attachment is present with this cid.  Parameters:     string $cid;;d4,3348;;b2,0;;mstring $cid;;p">
+</treenode>
+<treenode node="clearAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3418;5;3425;;;;vpos;;v;;r Definition     clearAddresses()  Description      Clear all To recipients.;;d4,3419;;b1,0;;m">
+</treenode>
+<treenode node="clearAllRecipients;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3463;5;3470;;;;vpos;;v;;r Definition     clearAllRecipients()  Description      Clear all recipient types.;;d4,3464;;b1,0;;m">
+</treenode>
+<treenode node="clearAttachments;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3475;5;3478;;;;vpos;;v;;r Definition     clearAttachments()  Description      Clear all filesystem, string, and binary attachments.;;d4,3476;;b1,0;;m">
+</treenode>
+<treenode node="clearBCCs;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3442;5;3449;;;;vpos;;v;;r Definition     clearBCCs()  Description      Clear all BCC recipients.;;d4,3443;;b1,0;;m">
+</treenode>
+<treenode node="clearCCs;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3430;5;3437;;;;vpos;;v;;r Definition     clearCCs()  Description      Clear all CC recipients.;;d4,3431;;b1,0;;m">
+</treenode>
+<treenode node="clearCustomHeaders;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3483;5;3486;;;;vpos;;v;;r Definition     clearCustomHeaders()  Description      Clear all custom headers.;;d4,3484;;b1,0;;m">
+</treenode>
+<treenode node="clearQueuedAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3405;5;3413;;;;vpos;;v;;r Definition     clearQueuedAddresses($kind)  Description      Clear queued addresses of given kind.  Parameters:     string $kind - &apos;to&apos;, &apos;cc&apos;, or &apos;bcc&apos;;;d4,3406;;b1,0;;mstring $kind;;p">
+</treenode>
+<treenode node="clearReplyTos;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3454;5;3458;;;;vpos;;v;;r Definition     clearReplyTos()  Description      Clear all ReplyTo recipients.;;d4,3455;;b1,0;;m">
+</treenode>
+<treenode node="createBody;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2419;5;2629;;;;vpos;;vstring;;r Definition     createBody()  Description      Assemble the message body. Returns an empty string on failure.  Return:    The assembled message body;;d4,2420;;b1,0;;m">
+</treenode>
+<treenode node="createHeader;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2234;5;2322;;;;vpos;;vstring;;r Definition     createHeader()  Description      Assemble message headers.  Return:    The assembled headers;;d4,2235;;b1,0;;m">
+</treenode>
+<treenode node="DKIM_Add;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4207;5;4278;;;;vpos;;vstring;;r Definition     DKIM_Add($headers_line, $subject, $body)  Description      Create the DKIM header and body in a new message header.  Parameters:     string $headers_line - Header lines     string $subject - Subject     string $body - Body;;d4,4208;;b1,0;;mstring $headers_line;;pstring $subject;;pstring $body;;p">
+</treenode>
+<treenode node="DKIM_BodyC;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4186;5;4196;;;;vpos;;vstring;;r Definition     DKIM_BodyC($body)  Description      Generate a DKIM canonicalization body. Uses the &apos;simple&apos; algorithm from RFC6376 section 3.4.3.  Parameters:     string $body - Message Body;;d4,4187;;b1,0;;mstring $body;;p">
+</treenode>
+<treenode node="DKIM_HeaderC;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4145;5;4174;;;;vpos;;vstring;;r Definition     DKIM_HeaderC($signHeader)  Description      Generate a DKIM canonicalization header. Uses the &apos;relaxed&apos; algorithm from RFC6376 section 3.4.2.  Parameters:     string $signHeader - Header;;d4,4146;;b1,0;;mstring $signHeader;;p">
+</treenode>
+<treenode node="DKIM_QP;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4083;5;4097;;;;vpos;;vstring;;r Definition     DKIM_QP($txt)  Description      Quoted-Printable-encode a DKIM header.  Parameters:     string $txt;;d4,4084;;b1,0;;mstring $txt;;p">
+</treenode>
+<treenode node="DKIM_Sign;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4108;5;4133;;;;vpos;;vstring;;r Definition     DKIM_Sign($signHeader)  Description      Generate a DKIM signature.  Parameters:     string $signHeader  Return:    The DKIM signature value;;d4,4109;;b1,0;;mstring $signHeader;;p">
+</treenode>
+<treenode node="doCallback;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;4360;5;4365;;;;vpos;;v;;r Definition     doCallback($isSent, $to, $cc, $bcc, $subject, $body, $from, $extra)  Description      Perform a callback.  Parameters:     bool $isSent     array $to     array $cc     array $bcc     string $subject     string $body     string $from     array $extra;;d4,4361;;b2,0;;mbool $isSent;;parray $to;;parray $cc;;parray $bcc;;pstring $subject;;pstring $body;;pstring $from;;parray $extra;;p">
+</treenode>
+<treenode node="edebug;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;779;5;826;;;;vpos;;v;;r Definition     edebug($str)  Description      Output debugging info via user-defined method. Only generates output if SMTP debug output is enabled ( see SMTP::$do_debug).  Parameters:     string $str;;d4,780;;b2,0;;mstring $str;;p">
+</treenode>
+<treenode node="encodeFile;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;2922;5;2940;;;;vpos;;vstring;;r Definition     encodeFile($path, $encoding = &apos;base64&apos;)  Description      Encode a file attachment in requested format. Returns an empty string on failure.  Parameters:     string $path - The full path to the file     string $encoding - The encoding to use;s one of &apos;base64&apos;, &apos;7bit&apos;, &apos;8bit&apos;, &apos;binary&apos;, &apos;quoted-printable&apos;;;d4,2923;;b2,0;;mstring $path;;pstring $encoding;;p">
+</treenode>
+<treenode node="encodeHeader;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2994;5;3068;;;;vpos;;vstring;;r Definition     encodeHeader($str, $position = &apos;text&apos;)  Description      Encode a header value (not including its label) optimally. Picks shortest of Q, B, or none. Result includes folding if needed. See RFC822 definitions for phrase, comment and text positions.  Parameters:     string $str - The header value to encode     string $position - What context the string will be used in;;d4,2995;;b1,0;;mstring $str;;pstring $position;;p">
+</treenode>
+<treenode node="encodeQ;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3166;5;3207;;;;vpos;;vstring;;r Definition     encodeQ($str, $position = &apos;text&apos;)  Description      Encode a string using Q encoding.  Parameters:     string $str - the text to encode     string $position - Where the text is going to be used, see the RFC for what that means;;d4,3167;;b1,0;;mstring $str;;pstring $position;;p">
+</treenode>
+<treenode node="encodeQP;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3151;5;3154;;;;vpos;;vstring;;r Definition     encodeQP($string)  Description      Encode a string in quoted-printable format. According to RFC2045 section 6.7.  Parameters:     string $string - The text to encode;;d4,3152;;b1,0;;mstring $string;;p">
+</treenode>
+<treenode node="encodeString;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2951;5;2982;;;;vpos;;vstring;;r Definition     encodeString($str, $encoding = &apos;base64&apos;)  Description      Encode a string in requested format. Returns an empty string on failure.  Parameters:     string $str - The text to encode     string $encoding - The encoding to use;s one of &apos;base64&apos;, &apos;7bit&apos;, &apos;8bit&apos;, &apos;binary&apos;, &apos;quoted-printable;;d4,2952;;b1,0;;mstring $str;;pstring $encoding;;p">
+</treenode>
+<treenode node="endBoundary;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;2672;5;2675;;;;vpos;;vstring;;r Definition     endBoundary($boundary)  Description      Return the end of a message boundary.  Parameters:     string $boundary;;d4,2673;;b2,0;;mstring $boundary;;p">
+</treenode>
+<treenode node="filenameToType;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;3917;5;3927;;;;vpos;;vstring;;r Definition     filenameToType($filename)  Description      Map a file name to a MIME type. Defaults to &apos;application/octet-stream&apos;, i.e.. arbitrary binary data.  Parameters:     string $filename - A file name or full path, does not need to exist as a file;;d4,3918;;b1,5;;mstring $filename;;p">
+</treenode>
+<treenode node="generateId;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;2395;5;2409;;;;vpos;;vstring;;r Definition     generateId()  Description      Create a unique ID to use for boundaries.;;d4,2396;;b2,0;;m">
+</treenode>
+<treenode node="getAllRecipientAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4343;5;4346;;;;vpos;;varray;;r Definition     getAllRecipientAddresses()  Description      Allows for public read access to &apos;all_recipients&apos; property. Before the send() call, queued addresses (i.e. with IDN) are not yet included.;;d4,4344;;b1,0;;m">
+</treenode>
+<treenode node="getAttachments;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2785;5;2788;;;;vpos;;varray;;r Definition     getAttachments()  Description      Return the array of attachments.;;d4,2786;;b1,0;;m">
+</treenode>
+<treenode node="getBccAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4321;5;4324;;;;vpos;;varray;;r Definition     getBccAddresses()  Description      Allows for public read access to &apos;bcc&apos; property. Before the send() call, queued addresses (i.e. with IDN) are not yet included.;;d4,4322;;b1,0;;m">
+</treenode>
+<treenode node="getBoundary;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;2641;5;2663;;;;vpos;;vstring;;r Definition     getBoundary($boundary, $charSet, $contentType, $encoding)  Description      Return the start of a message boundary.  Parameters:     string $boundary     string $charSet     string $contentType     string $encoding;;d4,2642;;b2,0;;mstring $boundary;;pstring $charSet;;pstring $contentType;;pstring $encoding;;p">
+</treenode>
+<treenode node="getCcAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4310;5;4313;;;;vpos;;varray;;r Definition     getCcAddresses()  Description      Allows for public read access to &apos;cc&apos; property. Before the send() call, queued addresses (i.e. with IDN) are not yet included.;;d4,4311;;b1,0;;m">
+</treenode>
+<treenode node="getCustomHeaders;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3649;5;3652;;;;vpos;;varray;;r Definition     getCustomHeaders()  Description      Returns all custom headers.;;d4,3650;;b1,0;;m">
+</treenode>
+<treenode node="getLastMessageID;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1153;5;1156;;;;vpos;;vstring;;r Definition     getLastMessageID()  Description      Return the Message-ID header of the last email. Technically this is the value from the last time the headers were created, but it&apos;s also the message ID of the last sent message except in pathological cases.;;d4,1154;;b1,0;;m">
+</treenode>
+<treenode node="getLE;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;4045;5;4048;;;;vpos;;vstring;;r Definition     getLE()  Description      Return the current line break format string.;;d4,4046;;b1,5;;m">
+</treenode>
+<treenode node="getMailMIME;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2329;5;2374;;;;vpos;;vstring;;r Definition     getMailMIME()  Description      Get the message MIME type headers.;;d4,2330;;b1,0;;m">
+</treenode>
+<treenode node="getOAuth;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4372;5;4375;;;;vpos;;vOAuth;;r Definition     getOAuth()  Description      Get the OAuth instance.;;d4,4373;;b1,0;;m">
+</treenode>
+<treenode node="getReplyToAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4332;5;4335;;;;vpos;;varray;;r Definition     getReplyToAddresses()  Description      Allows for public read access to &apos;ReplyTo&apos; property. Before the send() call, queued addresses (i.e. with IDN) are not yet included.;;d4,4333;;b1,0;;m">
+</treenode>
+<treenode node="getSentMIMEMessage;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2385;5;2388;;;;vpos;;vstring;;r Definition     getSentMIMEMessage()  Description      Returns the whole MIME message. Includes complete headers and body. Only valid post preSend().;;d4,2386;;b1,0;;m">
+</treenode>
+<treenode node="getSMTPInstance;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1667;5;1674;;;;vpos;;vSMTP;;r Definition     getSMTPInstance()  Description      Get an instance to use for SMTP operations. Override this function to load your own SMTP implementation, or set one with setSMTPInstance.;;d4,1668;;b1,0;;m">
+</treenode>
+<treenode node="getToAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4299;5;4302;;;;vpos;;varray;;r Definition     getToAddresses()  Description      Allows for public read access to &apos;to&apos; property. Before the send() call, queued addresses (i.e. with IDN) are not yet included.;;d4,4300;;b1,0;;m">
+</treenode>
+<treenode node="getTranslations;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2009;5;2012;;;;vpos;;varray;;r Definition     getTranslations()  Description      Get the array of strings for the current language.;;d4,2010;;b1,0;;m">
+</treenode>
+<treenode node="has8bitChars;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3094;5;3097;;;;vpos;;vbool;;r Definition     has8bitChars($text)  Description      Does a string contain any 8-bit chars (in any charset)?  Parameters:     string $text;;d4,3095;;b1,0;;mstring $text;;p">
+</treenode>
+<treenode node="hasLineLongerThanMax;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;4288;5;4291;;;;vpos;;vbool;;r Definition     hasLineLongerThanMax($str)  Description      Detect if a string contains a line longer than the maximum line length allowed by RFC 2822 section 2.1.1.  Parameters:     string $str;;d4,4289;;b1,5;;mstring $str;;p">
+</treenode>
+<treenode node="hasMultiBytes;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3077;5;3085;;;;vpos;;vbool;;r Definition     hasMultiBytes($str)  Description      Check if a string contains multi-byte characters.  Parameters:     string $str - multi-byte text to wrap encode;;d4,3078;;b1,0;;mstring $str;;p">
+</treenode>
+<treenode node="headerLine;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2708;5;2711;;;;vpos;;vstring;;r Definition     headerLine($name, $value)  Description      Format a header line.  Parameters:     string $name     string|int $value;;d4,2709;;b1,0;;mstring $name;;pstring|int $value;;p">
+</treenode>
+<treenode node="html2text;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3779;5;3790;;;;vpos;;vstring;;r Definition     html2text($html, $advanced = false)  Description      Convert an HTML string into plain text. This is used by msgHTML(). Note - older versions of this function used a bundled advanced converter which was removed for license reasons in #232. Example usage:  Parameters:     string $html - The HTML text to convert     bool|callable $advanced - Any boolean value to use the internal converter,;;d4,3780;;b1,0;;mstring $html;;pbool|callable $advanced;;p">
+</treenode>
+<treenode node="idnSupported;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1248;5;1251;;;;vpos;;vbool;;r Definition     idnSupported()  Description      Tells whether IDNs (Internationalized Domain Names) are supported or not. This requires the `intl` and `mbstring` PHP extensions.  Return:    `true` if required functions for IDN support are present;;d4,1249;;b1,0;;m">
+</treenode>
+<treenode node="inlineImageExists;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3363;5;3372;;;;vpos;;vbool;;r Definition     inlineImageExists()  Description      Check if an inline attachment is present.;;d4,3364;;b1,0;;m">
+</treenode>
+<treenode node="isError;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3621;5;3624;;;;vpos;;vbool;;r Definition     isError()  Description      Check if an error occurred.  Return:    True if an error did occur;;d4,3622;;b1,0;;m">
+</treenode>
+<treenode node="isHTML;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;833;5;840;;;;vpos;;v;;r Definition     isHTML($isHtml = true)  Description      Sets message type to HTML or plain.  Parameters:     bool $isHtml - True for HTML mode;;d4,834;;b1,0;;mbool $isHtml;;p">
+</treenode>
+<treenode node="isMail;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;853;5;856;;;;vpos;;v;;r Definition     isMail()  Description      Send messages using PHP&apos;s mail() function.;;d4,854;;b1,0;;m">
+</treenode>
+<treenode node="isQmail;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;876;5;886;;;;vpos;;v;;r Definition     isQmail()  Description      Send messages using qmail.;;d4,877;;b1,0;;m">
+</treenode>
+<treenode node="isSendmail;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;861;5;871;;;;vpos;;v;;r Definition     isSendmail()  Description      Send messages using $Sendmail.;;d4,862;;b1,0;;m">
+</treenode>
+<treenode node="isShellSafe;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f21;1577;5;1600;;;;vpos;;vbool;;r Definition     isShellSafe($string)  Description      Fix CVE-2016-10033 and CVE-2016-10045 by disallowing potentially unsafe shell characters. Note that escapeshellarg and escapeshellcmd are inadequate for our purposes, especially on Windows.  Parameters:     string $string - The string to be validated;;d4,1578;;b2,5;;mstring $string;;p">
+</treenode>
+<treenode node="isSMTP;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;845;5;848;;;;vpos;;v;;r Definition     isSMTP()  Description      Send messages using SMTP.;;d4,846;;b1,0;;m">
+</treenode>
+<treenode node="isValidHost;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;3561;5;3586;;;;vpos;;vbool;;r Definition     isValidHost($host)  Description      Validate whether a string contains a valid value to use as a hostname or IP address. IPv6 addresses must include [], e.g. `[::1]`, not just `::1`.  Parameters:     string $host - The host name or IP address to check;;d4,3562;;b1,5;;mstring $host;;p">
+</treenode>
+<treenode node="lang;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;3595;5;3614;;;;vpos;;vstring;;r Definition     lang($key)  Description      Get an error message in the current language.  Parameters:     string $key;;d4,3596;;b2,0;;mstring $key;;p">
+</treenode>
+<treenode node="mailPassthru;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f12;752;5;768;;;;vpos;;vbool;;r Definition     mailPassthru($to, $subject, $body, $header, $params)  Description      Call mail() in a safe_mode-aware fashion. Also, unless sendmail_path points to sendmail (or something that claims to be sendmail), don&apos;t pass params (not a perfect fix, but it will do).  Parameters:     string $to - To     string $subject - Subject     string $body - Message Body     string $header - Additional Header(s)     string|null $params - Params;;d4,753;;b3,0;;mstring $to;;pstring $subject;;pstring $body;;pstring $header;;pstring|null $params;;p">
+</treenode>
+<treenode node="mailSend;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;1614;5;1658;;;;vpos;;vbool;;r Definition     mailSend($header, $body)  Description      Send mail using the PHP mail() function.  Parameters:     string $header - The message headers     string $body - The message body;;d4,1615;;b2,0;;mstring $header;;pstring $body;;p">
+</treenode>
+<treenode node="mb_pathinfo;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;3941;5;3975;;;;vpos;;vstring;;r Definition     mb_pathinfo($path, $options = null)  Description      Multi-byte-safe pathinfo replacement. Drop-in replacement for pathinfo(), but multibyte- and cross-platform-safe.  Parameters:     string $path - A filename or path, does not need to exist as a file     int|string $options - Either a PATHINFO_* constant,  Return:    |array;;d4,3942;;b1,5;;mstring $path;;pint|string $options;;p">
+</treenode>
+<treenode node="msgHTML;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3672;5;3754;;;;vpos;;vstring;;r Definition     msgHTML($message, $basedir = &apos;&apos;, $advanced = false)  Description      Create a message body from an HTML string. Automatically inlines images and creates a plain-text version by converting the HTML, overwriting any existing values in Body and AltBody. Do not source $message content from user input! $basedir is prepended when handling relative URLs, e.g. &lt;img src=&quot;/images/a.png&quot;&gt; and must not be empty will look for an image file in $basedir/images/a.png and convert it to inline. If you don&apos;t provide a $basedir, relative paths will be left untouched (and thus probably break in email) Converts data-uri images into embedded attachments. If you don&apos;t want to apply these transformations to your HTML, just set Body and AltBody directly.  Parameters:     string $message - HTML message string     string $basedir - Absolute path to a base directory to prepend to relative paths to images     bool|callable $advanced - Whether to use the internal HTML to text converter  Return:    $message The transformed message Body;;d4,3673;;b1,0;;mstring $message;;pstring $basedir;;pbool|callable $advanced;;p">
+</treenode>
+<treenode node="normalizeBreaks;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;4025;5;4038;;;;vpos;;vstring;;r Definition     normalizeBreaks($text, $breaktype = null)  Description      Normalize line breaks in a string. Converts UNIX LF, Mac CR and Windows CRLF line breaks into a single line break format. Defaults to CRLF (for message bodies) and preserves consecutive breaks.  Parameters:     string $text     string $breaktype - What kind of line break to use;s defaults to static::$LE;;d4,4026;;b1,5;;mstring $text;;pstring $breaktype;;p">
+</treenode>
+<treenode node="parseAddresses;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;1059;5;1103;;;;vpos;;varray;;r Definition     parseAddresses($addrstr, $useimap = true)  Description      Parse and validate a string containing one or more RFC822-style comma-separated email addresses of the form &quot;display name &lt;address&gt;&quot; into an array of name/address pairs. Uses the imap_rfc822_parse_adrlist function if the IMAP extension is available. Note that quotes in the name part are removed.  Parameters:     string $addrstr - The address list string     bool $useimap - Whether to use the IMAP extension to parse the list;;d4,1060;;b1,5;;mstring $addrstr;;pbool $useimap;;p">
+</treenode>
+<treenode node="postSend;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1455;5;1484;;;;vpos;;vbool;;r Definition     postSend()  Description      Actually send a message via the selected mechanism.;;d4,1456;;b1,0;;m">
+</treenode>
+<treenode node="preSend;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1325;5;1446;;;;vpos;;vbool;;r Definition     preSend()  Description      Prepare a message for sending.;;d4,1326;;b1,0;;m">
+</treenode>
+<treenode node="punyencodeAddress;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1267;5;1289;;;;vpos;;vstring;;r Definition     punyencodeAddress($address)  Description      Converts IDN in given email address to its ASCII form, also known as punycode, if possible. Important: Address must be passed in same encoding as currently set in PHPMailer::$CharSet. This function silently returns unmodified address if: - No conversion is necessary (i.e. domain name is not an IDN, or is already in ASCII form) - Conversion to punycode is impossible (e.g. required PHP functions are not available) or fails for any reason (e.g. domain contains characters not allowed in an IDN).  Parameters:     string $address - The email address to convert  Return:    The encoded address in ASCII form;;d4,1268;;b1,0;;mstring $address;;p">
+</treenode>
+<treenode node="rfcDate;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;3519;5;3526;;;;vpos;;vstring;;r Definition     rfcDate()  Description      Return an RFC 822 formatted date.;;d4,3520;;b1,5;;m">
+</treenode>
+<treenode node="secureHeader;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4010;5;4013;;;;vpos;;vstring;;r Definition     secureHeader($str)  Description      Strip newlines to prevent header injection.  Parameters:     string $str;;d4,4011;;b1,0;;mstring $str;;p">
+</treenode>
+<treenode node="send;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1299;5;1316;;;;vpos;;vbool;;r Definition     send()  Description      Create a message and send it. Uses the sending method specified by $Mailer.  Return:    false on error - See the ErrorInfo property for details of the error;;d4,1300;;b1,0;;m">
+</treenode>
+<treenode node="sendmailSend;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;1498;5;1565;;;;vpos;;vbool;;r Definition     sendmailSend($header, $body)  Description      Send mail using the $Sendmail program.  Parameters:     string $header - The message headers     string $body - The message body;;d4,1499;;b2,0;;mstring $header;;pstring $body;;p">
+</treenode>
+<treenode node="serverHostname;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;3534;5;3551;;;;vpos;;vstring;;r Definition     serverHostname()  Description      Get the server hostname. Returns &apos;localhost.localdomain&apos; if unknown.;;d4,3535;;b2,0;;m">
+</treenode>
+<treenode node="set;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;3991;5;4001;;;;vpos;;vbool;;r Definition     set($name, $value = &apos;&apos;)  Description      Set or reset instance properties. You should avoid this function - it&apos;s more verbose, less efficient, more error-prone and harder to debug than setting properties directly. Usage Example: `$mail-&gt;set(&apos;SMTPSecure&apos;, &apos;tls&apos;);s` is the same as: `$mail-&gt;SMTPSecure = &apos;tls&apos;;s`.  Parameters:     string $name - The property name to set     mixed $value - The value to set the property to;;d4,3992;;b1,0;;mstring $name;;pmixed $value;;p">
+</treenode>
+<treenode node="setError;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;3493;5;3512;;;;vpos;;v;;r Definition     setError($msg)  Description      Add an error message to the error container.  Parameters:     string $msg;;d4,3494;;b2,0;;mstring $msg;;p">
+</treenode>
+<treenode node="setFrom;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1116;5;1143;;;;vpos;;vbool;;r Definition     setFrom($address, $name = &apos;&apos;, $auto = true)  Description      Set the From and FromName properties.  Parameters:     string $address     string $name     bool $auto - Whether to also set the Sender address, defaults to true;;d4,1117;;b1,0;;mstring $address;;pstring $name;;pbool $auto;;p">
+</treenode>
+<treenode node="setLanguage;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1940;5;2002;;;;vpos;;vbool;;r Definition     setLanguage($langcode = &apos;en&apos;, $lang_path = &apos;&apos;)  Description      Set the language for error messages. Returns false if it cannot load the language file. The default language is English.  Parameters:     string $langcode - ISO 639-1 2-character language code (e     string $lang_path - Path to the language file directory, with trailing separator (slash);;d4,1941;;b1,0;;mstring $langcode;;pstring $lang_path;;p">
+</treenode>
+<treenode node="setLE;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f21;4055;5;4058;;;;vpos;;v;;r Definition     setLE($le)  Description      Set the line break format string, e.g. &quot;\r\n&quot;.  Parameters:     string $le;;d4,4056;;b2,5;;mstring $le;;p">
+</treenode>
+<treenode node="setMessageType;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;2681;5;2698;;;;vpos;;v;;r Definition     setMessageType()  Description      Set the message type. PHPMailer only supports some preset message types, not arbitrary MIME structures.;;d4,2682;;b2,0;;m">
+</treenode>
+<treenode node="setOAuth;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4382;5;4385;;;;vpos;;v;;r Definition     setOAuth(OAuth $oauth)  Description      Set an OAuth instance.  Parameters:     OAuth $oauth;;d4,4383;;b1,0;;mOAuth $oauth;;p">
+</treenode>
+<treenode node="setSMTPInstance;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1683;5;1688;;;;vpos;;vSMTP;;r Definition     setSMTPInstance(SMTP $smtp)  Description      Provide an instance to use for SMTP operations.  Parameters:     SMTP $smtp;;d4,1684;;b1,0;;mSMTP $smtp;;p">
+</treenode>
+<treenode node="setWordWrap;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2210;5;2227;;;;vpos;;v;;r Definition     setWordWrap()  Description      Apply word wrapping to the message body. Wraps the message body to the number of chars set in the WordWrap property. You should only do this to plain-text bodies as wrapping HTML tags may break them. This is called automatically by createBody(), so you don&apos;t need to call it yourself.;;d4,2211;;b1,0;;m">
+</treenode>
+<treenode node="sign;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;4068;5;4074;;;;vpos;;v;;r Definition     sign($cert_filename, $key_filename, $key_pass, $extracerts_filename = &apos;&apos;)  Description      Set the public and private key files and password for S/MIME signing.  Parameters:     string $cert_filename     string $key_filename     string $key_pass - Password for private key     string $extracerts_filename - Optional path to chain certificate;;d4,4069;;b1,0;;mstring $cert_filename;;pstring $key_filename;;pstring $key_pass;;pstring $extracerts_filename;;p">
+</treenode>
+<treenode node="smtpClose;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1920;5;1928;;;;vpos;;v;;r Definition     smtpClose()  Description      Close the active SMTP session if one exists.;;d4,1921;;b1,0;;m">
+</treenode>
+<treenode node="smtpConnect;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;1792;5;1915;;;;vpos;;vbool;;r Definition     smtpConnect($options = null)  Description      Initiate a connection to an SMTP server. Returns false if the operation failed.  Parameters:     array $options - An array of options compatible with stream_context_create();;d4,1793;;b1,0;;marray $options;;p">
+</treenode>
+<treenode node="smtpSend;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f14;1705;5;1778;;;;vpos;;vbool;;r Definition     smtpSend($header, $body)  Description      Send mail via SMTP. Returns false if there is a bad MAIL FROM, RCPT, or DATA input.  Parameters:     string $header - The message headers     string $body - The message body;;d4,1706;;b2,0;;mstring $header;;pstring $body;;p">
+</treenode>
+<treenode node="textLine;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2720;5;2723;;;;vpos;;vstring;;r Definition     textLine($value)  Description      Return a formatted mail line.  Parameters:     string $value;;d4,2721;;b1,0;;mstring $value;;p">
+</treenode>
+<treenode node="utf8CharBoundary;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2166;5;2202;;;;vpos;;vint;;r Definition     utf8CharBoundary($encodedText, $maxLength)  Description      Find the last character boundary prior to $maxLength in a utf-8 quoted-printable encoded string. Original written by Colin Brown.  Parameters:     string $encodedText - utf-8 QP text     int $maxLength - Find the last character boundary prior to this length;;d4,2167;;b1,0;;mstring $encodedText;;pint $maxLength;;p">
+</treenode>
+<treenode node="validateAddress;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f18;1182;5;1240;;;;vpos;;vbool;;r Definition     validateAddress($address, $patternselect = null)  Description      Check that a string looks like an email address. Validation patterns supported: * `auto` Pick best pattern automatically;s * `pcre8` Use the squiloople.com pattern, requires PCRE &gt; 8.0;s * `pcre` Use old PCRE implementation;s * `php` Use PHP built-in FILTER_VALIDATE_EMAIL;s * `html5` Use the pattern given by the HTML5 spec for &apos;email&apos; type form input elements. * `noregex` Don&apos;t use a regex: super fast, really dumb. Alternatively you may pass in a callable to inject your own validator, for example:  Parameters:     string $address - The email address to check     string|callable $patternselect - Which pattern to use;;d4,1183;;b1,5;;mstring $address;;pstring|callable $patternselect;;p">
+</treenode>
+<treenode node="wrapText;PHP:Function Name;D:\www\imagecity\email\src\PHPMailer.php;f11;2066;5;2154;;;;vpos;;vstring;;r Definition     wrapText($message, $length, $qp_mode = false)  Description      Word-wrap message. For use with mailers that do not automatically perform wrapping and for quoted-printable encoded messages. Original written by philippe.  Parameters:     string $message - The message to wrap     int $length - The line length to wrap to     bool $qp_mode - Whether to run in Quoted-Printable mode;;d4,2067;;b1,0;;mstring $message;;pint $length;;pbool $qp_mode;;p">
+</treenode>
+</treenode>
+<treenode node="POP3;PHP:Class Name;D:\www\imagecity\email\src\POP3.php;f0;40;1;418;;;;vpos;;v;;r Definition     class POP3  Description      PHPMailer POP-Before-SMTP Authentication Class. Specifically for PHPMailer to use for RFC1939 POP-before-SMTP authentication. 1) This class does not support APOP authentication. 2) Opening and closing lots of POP3 connections can be quite slow. If you need to send a batch of emails then just perform the authentication once at the start, and then loop through your mail sending script. Providing this process doesn&apos;t take longer than the verification period lasts on your POP3 server, you should be fine. 3) This is really ancient technology;s you should only need to use it to talk to very old systems. 4) This POP3 class is deliberately lightweight and incomplete, and implements just enough to do authentication. If you want a more complete class there are other POP3 classes for PHP available.;;d0,41;;b0,0;;m">
+<treenode node="DEFAULT_PORT;PHP:PHP Word;D:\www\imagecity\email\src\POP3.php;f9;54;22;54;;;;vposint;;v;;r110;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_TIMEOUT;PHP:PHP Word;D:\www\imagecity\email\src\POP3.php;f9;61;25;61;;;;vposint;;v;;r30;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LE;PHP:PHP Word;D:\www\imagecity\email\src\POP3.php;f9;130;12;130;;;;vpos;;v;;r Description      Line break constant.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="VERSION;PHP:PHP Word;D:\www\imagecity\email\src\POP3.php;f9;47;17;47;;;;vposstring;;v;;r&apos;6.0.1&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="authorise;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f11;171;5;205;;;;vpos;;vbool;;r Definition     authorise($host, $port = false, $timeout = false, $username = &apos;&apos;, $password = &apos;&apos;, $debug_level = 0)  Description      Authenticate with a POP3 server. A connect, login, disconnect sequence appropriate for POP-before SMTP authorisation.  Parameters:     string $host - The hostname to connect to     int|bool $port - The port number to connect to     int|bool $timeout - The timeout value     string $username     string $password     int $debug_level;;d4,172;;b1,0;;mstring $host;;pint|bool $port;;pint|bool $timeout;;pstring $username;;pstring $password;;pint $debug_level;;p">
+</treenode>
+<treenode node="catchWarning;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f14;411;5;417;;;;vpos;;v;;r Definition     catchWarning($errno, $errstr, $errfile, $errline)  Description      POP3 connection error handler.  Parameters:     int $errno     string $errstr     string $errfile     int $errline;;d4,412;;b2,0;;mint $errno;;pstring $errstr;;pstring $errfile;;pint $errline;;p">
+</treenode>
+<treenode node="checkResponse;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f14;364;5;373;;;;vpos;;vbool;;r Definition     checkResponse($string)  Description      Checks the POP3 server response. Looks for for +OK or -ERR.  Parameters:     string $string;;d4,365;;b2,0;;mstring $string;;p">
+</treenode>
+<treenode node="connect;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f11;216;5;266;;;;vpos;;vbool;;r Definition     connect($host, $port = false, $tval = 30)  Description      Connect to a POP3 server.  Parameters:     string $host     int|bool $port     int $tval;;d4,217;;b1,0;;mstring $host;;pint|bool $port;;pint $tval;;p">
+</treenode>
+<treenode node="disconnect;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f11;307;5;317;;;;vpos;;v;;r Definition     disconnect()  Description      Disconnect from the POP3 server.;;d4,308;;b1,0;;m">
+</treenode>
+<treenode node="getErrors;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f11;398;5;401;;;;vpos;;varray;;r Definition     getErrors()  Description      Get an array of error messages, if any.;;d4,399;;b1,0;;m">
+</treenode>
+<treenode node="getResponse;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f14;326;5;334;;;;vpos;;vstring;;r Definition     getResponse($size = 128)  Description      Get a response from the POP3 server.  Parameters:     int $size - The maximum number of bytes to retrieve;;d4,327;;b2,0;;mint $size;;p">
+</treenode>
+<treenode node="login;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f11;277;5;302;;;;vpos;;vbool;;r Definition     login($username = &apos;&apos;, $password = &apos;&apos;)  Description      Log in to the POP3 server. Does not support APOP (RFC 2828, 4949).  Parameters:     string $username     string $password;;d4,278;;b1,0;;mstring $username;;pstring $password;;p">
+</treenode>
+<treenode node="popBeforeSmtp;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f18;144;5;155;;;;vpos;;vbool;;r Definition     popBeforeSmtp(         $host,         $port = false,         $timeout = false,         $username = &apos;&apos;,         $password = &apos;&apos;,         $debug_level = 0     )  Description      Simple static wrapper for all-in-one POP before SMTP.  Parameters:     string $host - The hostname to connect to     int|bool $port - The port number to connect to     int|bool $timeout - The timeout value     string $username     string $password     int $debug_level;;d6,151;;b1,5;;mstring $host;;pint|bool $port;;pint|bool $timeout;;pstring $username;;pstring $password;;pint $debug_level;;p">
+</treenode>
+<treenode node="sendString;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f14;343;5;354;;;;vpos;;vint;;r Definition     sendString($string)  Description      Send raw data to the POP3 server.  Parameters:     string $string;;d4,344;;b2,0;;mstring $string;;p">
+</treenode>
+<treenode node="setError;PHP:Function Name;D:\www\imagecity\email\src\POP3.php;f14;381;5;391;;;;vpos;;v;;r Definition     setError($error)  Description      Add an error to the internal error store. Also display debug output if it&apos;s enabled.  Parameters:     string $error;;d4,382;;b2,0;;mstring $error;;p">
+</treenode>
+</treenode>
+<treenode node="session;PHP:Class Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f0;18;1;137;;;;vpos;;v;;r;;d14,18;;b0,0;;m">
+<treenode node="_close;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f4;59;5;64;;;;vpos;;v;;r;;d22,59;;b0,0;;m">
+</treenode>
+<treenode node="_destroy;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f4;111;5;120;;;;vpos;;v;;r;;d31,111;;b0,0;;mses_id;;p">
+</treenode>
+<treenode node="_gc;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f4;123;5;136;;;;vpos;;v;;r;;d24,123;;b0,0;;mlife;;p">
+</treenode>
+<treenode node="_open;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f4;50;5;56;;;;vpos;;v;;r;;d33,50;;b0,0;;mpath;;pname;;p">
+</treenode>
+<treenode node="_read;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f4;67;5;83;;;;vpos;;v;;r;;d28,67;;b0,0;;mses_id;;p">
+</treenode>
+<treenode node="_write;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f4;86;5;108;;;;vpos;;v;;r;;d36,86;;b0,0;;mses_id;;pdata;;p">
+</treenode>
+<treenode node="db_connect;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\session_handler.php;f4;35;5;46;;;;vpos;;v;;r;;d26,35;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="SMTP;PHP:Class Name;D:\www\imagecity\email\src\SMTP.php;f0;29;1;1315;;;;vpos;;v;;r Definition     class SMTP  Description      SMTP is rfc 821 compliant and implements all the rfc 821 SMTP commands except TURN which will always return a not implemented error. SMTP also provides some utility methods for sending mail to an SMTP server.;;d0,24;;b0,0;;m">
+<treenode node="DEBUG_CLIENT;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;67;22;67;;;;vpos;;v;;r Description      Debug level to show client -&gt; server messages.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_CONNECTION;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;77;26;77;;;;vpos;;v;;r Description      Debug level to show connection status, client -&gt; server and server -&gt; client messages.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_LOWLEVEL;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;82;24;82;;;;vpos;;v;;r Description      Debug level to show all messages.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_OFF;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;62;19;62;;;;vpos;;v;;r Description      Debug level for no output.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_SERVER;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;72;22;72;;;;vpos;;v;;r Description      Debug level to show client -&gt; server and server -&gt; client messages.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_PORT;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;50;22;50;;;;vposint;;v;;r25;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LE;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;43;12;43;;;;vposstring;;v;;r&quot;\r\n&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_LINE_LENGTH;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;57;25;57;;;;vposint;;v;;r998;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="VERSION;PHP:PHP Word;D:\www\imagecity\email\src\SMTP.php;f9;36;17;36;;;;vposstring;;v;;r&apos;6.0.1&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="authenticate;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;422;5;541;;;;vpos;;vbool;;r Definition     authenticate(         $username,         $password,         $authtype = null,         $OAuth = null     )  Description      Perform SMTP authentication. Must be run after hello().  Parameters:     string $username - The user name     string $password - The password     string $authtype - The auth type (CRAM-MD5, PLAIN, LOGIN, XOAUTH2)     OAuth $OAuth - An optional OAuth instance for XOAUTH2 authentication  Return:    True if successfully authenticated;;d6,427;;b1,0;;mstring $username;;pstring $password;;pstring $authtype;;pOAuth $OAuth;;p">
+</treenode>
+<treenode node="client_send;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1009;5;1017;;;;vpos;;vint;;r Definition     client_send($data)  Description      Send raw data to the server.  Parameters:     string $data - The data to send  Return:    |bool The number of bytes sent to the server or false on error;;d4,1010;;b1,0;;mstring $data;;p">
+</treenode>
+<treenode node="close;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;612;5;623;;;;vpos;;v;;r Definition     close()  Description      Close the socket and clean up the state of the class. Don&apos;t use this function without first trying to use QUIT.;;d4,613;;b1,0;;m">
+</treenode>
+<treenode node="connect;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;286;5;374;;;;vpos;;vbool;;r Definition     connect($host, $port = null, $timeout = 30, $options = [])  Description      Connect to an SMTP server.  Parameters:     string $host - SMTP server IP or host name     int $port - The port number to connect to     int $timeout - How long to wait for the connection to open     array $options - An array of options for stream_context_create();;d4,287;;b1,0;;mstring $host;;pint $port;;pint $timeout;;parray $options;;p">
+</treenode>
+<treenode node="connected;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;585;5;604;;;;vpos;;vbool;;r Definition     connected()  Description      Check connection state.  Return:    True if connected;;d4,586;;b1,0;;m">
+</treenode>
+<treenode node="data;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;638;5;717;;;;vpos;;vbool;;r Definition     data($msg_data)  Description      Send an SMTP DATA command. Issues a data command and sends the msg_data to the server, finializing the mail transaction. $msg_data is the message that is to be send with the headers. Each header needs to be on a single line followed by a &lt;CRLF&gt; with the message headers and the message body being separated by an additional &lt;CRLF&gt;. Implements RFC 821: DATA &lt;CRLF&gt;.  Parameters:     string $msg_data - Message data to send;;d4,639;;b1,0;;mstring $msg_data;;p">
+</treenode>
+<treenode node="edebug;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;227;5;274;;;;vpos;;v;;r Definition     edebug($str, $level = 0)  Description      Output debugging info via a user-selected method.  Parameters:     string $str - Debug string to output     int $level - The debug level of this message;s see DEBUG_* constants;;d4,228;;b2,0;;mstring $str;;pint $level;;p">
+</treenode>
+<treenode node="errorHandler;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;1260;5;1272;;;;vpos;;v;;r Definition     errorHandler($errno, $errmsg, $errfile = &apos;&apos;, $errline = 0)  Description      Reports an error number and string.  Parameters:     int $errno - The error number returned by PHP     string $errmsg - The error message returned by PHP     string $errfile - The file the error occurred in     int $errline - The line number the error occurred on;;d4,1261;;b2,0;;mint $errno;;pstring $errmsg;;pstring $errfile;;pint $errline;;p">
+</treenode>
+<treenode node="get_lines;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;1098;5;1152;;;;vpos;;vstring;;r Definition     get_lines()  Description      Read in as many lines as possible either before eof or socket timeout occurs on the operation. With SMTP we can tell if we have more lines to read if the 4th character is &apos;-&apos; symbol. If it is a space then we don&apos;t need to read anything else.;;d25,1021;;b0,0;;m">
+</treenode>
+<treenode node="getDebugLevel;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1227;5;1230;;;;vpos;;vint;;r Definition     getDebugLevel()  Description      Get debug output level.;;d4,1228;;b1,0;;m">
+</treenode>
+<treenode node="getDebugOutput;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1207;5;1210;;;;vpos;;vstring;;r Definition     getDebugOutput()  Description      Get debug output method.;;d4,1208;;b1,0;;m">
+</treenode>
+<treenode node="getError;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1024;5;1027;;;;vpos;;varray;;r Definition     getError()  Description      Get the latest error.;;d4,1025;;b1,0;;m">
+</treenode>
+<treenode node="getLastReply;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1084;5;1087;;;;vpos;;vstring;;r Definition     getLastReply()  Description      Get the last reply from the server.;;d4,1085;;b1,0;;m">
+</treenode>
+<treenode node="getLastTransactionID;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1311;5;1314;;;;vpos;;vbool;;r Definition     getLastTransactionID()  Description      Get the queue/transaction ID of the last SMTP transaction If no reply has been received yet, it will return null. If no pattern was matched, it will return false.  Return:    |null|string;;d4,1312;;b1,0;;m">
+</treenode>
+<treenode node="getServerExt;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1056;5;1077;;;;vpos;;vmixed;;r Definition     getServerExt($name)  Description      Get metadata about the SMTP server from its HELO/EHLO response. The method works in three ways, dependent on argument value and current state: 1. HELO/EHLO has not been sent - returns null and populates $this-&gt;error. 2. HELO has been sent - $name == &apos;HELO&apos;: returns server name $name == &apos;EHLO&apos;: returns boolean false $name == any other string: returns null and populates $this-&gt;error 3. EHLO has been sent - $name == &apos;HELO&apos;|&apos;EHLO&apos;: returns the server name $name == any other string: if extension $name exists, returns True or its options (e.g. AUTH mechanisms supported). Otherwise returns False.  Parameters:     string $name - Name of SMTP extension or &apos;HELO&apos;|&apos;EHLO&apos;;;d4,1057;;b1,0;;mstring $name;;p">
+</treenode>
+<treenode node="getServerExtList;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1034;5;1037;;;;vpos;;varray;;r Definition     getServerExtList()  Description      Get SMTP extensions available on the server.  Return:    |null;;d4,1035;;b1,0;;m">
+</treenode>
+<treenode node="getTimeout;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1247;5;1250;;;;vpos;;vint;;r Definition     getTimeout()  Description      Get SMTP timeout.;;d4,1248;;b1,0;;m">
+</treenode>
+<treenode node="getVerp;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1169;5;1172;;;;vpos;;vbool;;r Definition     getVerp()  Description      Get VERP address generation mode.;;d4,1170;;b1,0;;m">
+</treenode>
+<treenode node="hello;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;730;5;734;;;;vpos;;vbool;;r Definition     hello($host = &apos;&apos;)  Description      Send an SMTP HELO or EHLO command. Used to identify the sending server to the receiving server. This makes sure that client and server are in a known state. Implements RFC 821: HELO &lt;SP&gt; &lt;domain&gt; &lt;CRLF&gt; and RFC 2821 EHLO.  Parameters:     string $host - The host name or IP to connect to;;d4,731;;b1,0;;mstring $host;;p">
+</treenode>
+<treenode node="hmac;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;553;5;578;;;;vpos;;vstring;;r Definition     hmac($data, $key)  Description      Calculate an MD5 HMAC hash. Works like hash_hmac(&apos;md5&apos;, $data, $key) in case that function is not available.  Parameters:     string $data - The data to hash     string $key - The key to hash with;;d4,554;;b2,0;;mstring $data;;pstring $key;;p">
+</treenode>
+<treenode node="mail;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;814;5;823;;;;vpos;;vbool;;r Definition     mail($from)  Description      Send an SMTP MAIL command. Starts a mail transaction from the email address specified in $from. Returns true if successful or false otherwise. If True the mail transaction is started and then one or more recipient commands may be called followed by a data command. Implements RFC 821: MAIL &lt;SP&gt; FROM:&lt;reverse-path&gt; &lt;CRLF&gt;.  Parameters:     string $from - Source address of this message;;d4,815;;b1,0;;mstring $from;;p">
+</treenode>
+<treenode node="noop;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;980;5;983;;;;vpos;;vbool;;r Definition     noop()  Description      Send an SMTP NOOP command. Used to keep keep-alives alive, doesn&apos;t actually do anything.;;d4,981;;b1,0;;m">
+</treenode>
+<treenode node="parseHelloFields;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;766;5;800;;;;vpos;;v;;r Definition     parseHelloFields($type)  Description      Parse a reply to HELO/EHLO command to discover server extensions. In case of HELO, the only parameter that can be discovered is a server name.  Parameters:     string $type - `HELO` or `EHLO`;;d4,767;;b2,0;;mstring $type;;p">
+</treenode>
+<treenode node="quit;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;834;5;844;;;;vpos;;vbool;;r Definition     quit($close_on_error = true)  Description      Send an SMTP QUIT command. Closes the socket if there is no error or the $close_on_error argument is true. Implements from RFC 821: QUIT &lt;CRLF&gt;.  Parameters:     bool $close_on_error - Should the connection close if an error occurs?;;d4,835;;b1,0;;mbool $close_on_error;;p">
+</treenode>
+<treenode node="recipient;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;856;5;863;;;;vpos;;vbool;;r Definition     recipient($address)  Description      Send an SMTP RCPT command. Sets the TO argument to $toaddr. Returns true if the recipient was accepted false if it was rejected. Implements from RFC 821: RCPT &lt;SP&gt; TO:&lt;forward-path&gt; &lt;CRLF&gt;.  Parameters:     string $address - The address the message is being sent to;;d4,857;;b1,0;;mstring $address;;p">
+</treenode>
+<treenode node="recordLastTransactionID;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;1283;5;1300;;;;vpos;;vbool;;r Definition     recordLastTransactionID()  Description      Extract and return the ID of the last SMTP transaction based on a list of patterns provided in SMTP::$smtp_transaction_id_patterns. Relies on the host providing the ID in response to a DATA command. If no reply has been received yet, it will return null. If no pattern was matched, it will return false.  Return:    |null|string;;d4,1284;;b2,0;;m">
+</treenode>
+<treenode node="reset;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;872;5;875;;;;vpos;;vbool;;r Definition     reset()  Description      Send an SMTP RSET command. Abort any transaction that is currently in progress. Implements RFC 821: RSET &lt;CRLF&gt;.  Return:    True on success;;d4,873;;b1,0;;m">
+</treenode>
+<treenode node="sendAndMail;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;957;5;960;;;;vpos;;vbool;;r Definition     sendAndMail($from)  Description      Send an SMTP SAML command. Starts a mail transaction from the email address specified in $from. Returns true if successful or false otherwise. If True the mail transaction is started and then one or more recipient commands may be called followed by a data command. This command will send the message to the users terminal if they are logged in and send them an email. Implements RFC 821: SAML &lt;SP&gt; FROM:&lt;reverse-path&gt; &lt;CRLF&gt;.  Parameters:     string $from - The address the message is from;;d4,958;;b1,0;;mstring $from;;p">
+</treenode>
+<treenode node="sendCommand;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;886;5;941;;;;vpos;;vbool;;r Definition     sendCommand($command, $commandstring, $expect)  Description      Send a command to an SMTP server and check its return code.  Parameters:     string $command - The command name - not sent to the server     string $commandstring - The actual command to send     int|array $expect - One or more expected integer success codes  Return:    True on success;;d4,887;;b2,0;;mstring $command;;pstring $commandstring;;pint|array $expect;;p">
+</treenode>
+<treenode node="sendHello;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;747;5;758;;;;vpos;;vbool;;r Definition     sendHello($hello, $host)  Description      Send an SMTP HELO or EHLO command. Low-level implementation used by hello().  Parameters:     string $hello - The HELO string     string $host - The hostname to say we are;;d4,748;;b2,0;;mstring $hello;;pstring $host;;p">
+</treenode>
+<treenode node="setDebugLevel;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1217;5;1220;;;;vpos;;v;;r Definition     setDebugLevel($level = 0)  Description      Set debug output level.  Parameters:     int $level;;d4,1218;;b1,0;;mint $level;;p">
+</treenode>
+<treenode node="setDebugOutput;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1197;5;1200;;;;vpos;;v;;r Definition     setDebugOutput($method = &apos;echo&apos;)  Description      Set debug output method.  Parameters:     string|callable $method - The name of the mechanism to use for debugging output, or a callable to handle it;;d4,1198;;b1,0;;mstring|callable $method;;p">
+</treenode>
+<treenode node="setError;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f14;1182;5;1190;;;;vpos;;v;;r Definition     setError($message, $detail = &apos;&apos;, $smtp_code = &apos;&apos;, $smtp_code_ex = &apos;&apos;)  Description      Set error messages and codes.  Parameters:     string $message - The error message     string $detail - Further detail on the error     string $smtp_code - An associated SMTP error code     string $smtp_code_ex - Extended SMTP code;;d4,1183;;b2,0;;mstring $message;;pstring $detail;;pstring $smtp_code;;pstring $smtp_code_ex;;p">
+</treenode>
+<treenode node="setTimeout;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1237;5;1240;;;;vpos;;v;;r Definition     setTimeout($timeout = 0)  Description      Set SMTP timeout.  Parameters:     int $timeout - The timeout duration in seconds;;d4,1238;;b1,0;;mint $timeout;;p">
+</treenode>
+<treenode node="setVerp;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;1159;5;1162;;;;vpos;;v;;r Definition     setVerp($enabled = false)  Description      Enable or disable VERP address generation.  Parameters:     bool $enabled;;d4,1160;;b1,0;;mbool $enabled;;p">
+</treenode>
+<treenode node="startTLS;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;381;5;407;;;;vpos;;vbool;;r Definition     startTLS()  Description      Initiate a TLS (encrypted) session.;;d4,382;;b1,0;;m">
+</treenode>
+<treenode node="turn;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;994;5;1000;;;;vpos;;vbool;;r Definition     turn()  Description      Send an SMTP TURN command. This is an optional command for SMTP that this class does not support. This method is here to make the RFC821 Definition complete for this class and _may_ be implemented in future. Implements from RFC 821: TURN &lt;CRLF&gt;.;;d4,995;;b1,0;;m">
+</treenode>
+<treenode node="verify;PHP:Function Name;D:\www\imagecity\email\src\SMTP.php;f11;969;5;972;;;;vpos;;vbool;;r Definition     verify($name)  Description      Send an SMTP VRFY command.  Parameters:     string $name - The name to verify;;d4,970;;b1,0;;mstring $name;;p">
+</treenode>
+</treenode>
+<treenode node="Users_profile;PHP:Class Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f0;3;1;206;;;;vpos;;vAccess_user;;c;;r;;d40,3;;b0,0;;m">
+<treenode node="create_country_menu;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;158;2;178;;;;vpos;;v;;r;;d38,158;;b0,0;;mlabel;;p">
+</treenode>
+<treenode node="create_form_field;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;179;2;192;;;;vpos;;v;;r;;d122,179;;b0,0;;mformelement;;plabel;;plength;;prequired;;pdisabled;;peuro_date;;p">
+</treenode>
+<treenode node="create_text_area;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;193;2;205;;;;vpos;;v;;r;;d48,193;;b0,0;;mtext_field;;plabel;;p">
+</treenode>
+<treenode node="extra_text;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;45;2;68;;;;vpos;;v;;r;;d31,45;;b0,0;;mmsg_num;;p">
+</treenode>
+<treenode node="get_language;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;74;2;87;;;;vpos;;v;;r;;d35,74;;b0,0;;muser;;ppw;;p">
+</treenode>
+<treenode node="get_profile_data;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;111;2;139;;;;vpos;;v;;r;;d29,111;;b0,0;;m">
+</treenode>
+<treenode node="language_menu;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;142;2;156;;;;vpos;;v;;r;;d32,142;;b0,0;;mlabel;;p">
+</treenode>
+<treenode node="login_local;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;70;2;73;;;;vpos;;v;;r;;d40,70;;b0,0;;muser;;ppassword;;p">
+</treenode>
+<treenode node="save_profile_date;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;88;2;110;;;;vpos;;v;;r;;d208,88;;b0,0;;mident;;plang;;paddress;;ppc;;pcity;;pcountry;;pphone;;pfax;;php;;pnotes;;pfield1;;pfield2;;pfield3;;pfield4;;p">
+</treenode>
+<treenode node="Users_profile;PHP:Function Name;D:\www\imagecity\__setups\access_user\access_user\ext_user_profile.php;f1;24;2;43;;;;vpos;;v;;r;;d65,24;;b0,0;;mcheck_profile;;predirect;;p">
+</treenode>
+</treenode>
+<treenode node="generate_htaccess;PHP:Function Name;D:\www\imagecity\deadlock\install\install.php;f0;41;1;56;;;;vpos;;v;;r;;d35,853;;b0,0;;mprefix;;p">
+</treenode>
+<treenode node="generate_htpasswd;PHP:Function Name;D:\www\imagecity\deadlock\install\install.php;f0;24;1;38;;;;vpos;;v;;r;;d36,819;;b0,0;;mprefix;;p">
+</treenode>
+<treenode node="get_version;PHP:Function Name;D:\www\imagecity\deadlock\install\upgrade.php;f0;23;1;28;;;;vpos;;v;;r;;d22,23;;b0,0;;m">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\www\imagecity\news\index.php;f0;1;1;8;;;;vpos;;v;;r;;d21,1;;b0,0;;mview;;p">
+</treenode>
+<treenode node="tab;PHP:Function Name;D:\www\imagecity\index.php;f0;9;1;21;;;;vpos;;v;;r;;d14,9;;b0,0;;m">
+</treenode>
+</phptree>
+</codestructure>

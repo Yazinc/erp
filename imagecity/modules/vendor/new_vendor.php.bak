@@ -1,0 +1,64 @@
+<?php  include("../../classes/class_db.php"); ?>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <style type="text/css">
+.form-control {
+  background-color: #3366ff;
+}
+
+.form-control:hover {
+  background-color: #66ff99;
+}
+
+</style></head>
+  <body>
+    <div class="container-fluid">
+      <form class="form-horizontal" action="&lt;?php echo $_SERVER['PHP_SELF'];?&gt;"
+        method="post" id="add_new_vendor" title="Add New Vendor">
+        <p> <label for="Vendor Name">Vendor Name:</label> <input ="" name="vendor_name"
+            class="form-control" id="vendor_name" type="text"> </p>
+        <p> <label for="emailAddress">Email Address:</label> <input name="email"
+            class="form-control" id="emailAddress" type="text"> <input name="vendor_check"
+            id="vendor_check" value="1" type="hidden"> </p>
+        <p> <label for="active">Select:</label>
+          <select name="active" size="1" id="active" title="Vendor Active ">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+          </select>
+        </p>
+        <p> <input name="Submit" class="btn btn-default" id="submit" value="Submit"
+type="submit">
+      
+    </p>
+  </form>
+  </div>
+  
+<!--?php 
+
+echo $_POST['vendor_check'];
+echo $_POST['email'];	
+	
+	$add_= new dbs();
+	$add_--->db_connect();
+	
+	$sql = 
+	"INSERT INTO vendor_info 
+	(vendor_nam, ctc, email,account_type_id, active) 
+	VALUES 
+	('Peter', 'Parker', 'peterparker@mail.com',1,1)";
+		
+	echo "<b>.$sql.</b>";
+
+if($add_-&gt;mysqli-&gt;query($sql) === true){
+		echo "Good Job. Records inserted successfully.";
+		} else{
+		echo "ERROR: Could not able to execute $sql. " . $mysqli-&gt;error;
+		
+}
+// Close connection
+		
+		$add_-&gt;mysqli-&gt;close();
+		
+?&gt;
+</body></html>

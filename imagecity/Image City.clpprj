@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\www\imagecity\Image City.clpprj">
+	<removed value=";"/><added value="D:\www\imagecity\.htpasswd;"/><lastopfiles>
+		<file name="D:\www\imagecity\modules\vendor\vendor_list.php"/>
+		<file name="D:\www\imagecity\modules\vendor\index.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="D:\www\imagecity\email\src\PHPMailer.php">
+			<todo name="@TODO would be nice to use php://temp streams here" pos="17;2582"/>
+		</todofile>
+	</todoblock>
+	<filescache>
+		<file name="D:\www\imagecity\templates\retina\retina\js\modernizr.custom.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\retina\retina\js\jquery.carouFredSel-5.5.0-packed.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\retina\retina\js\jquery-1.8.0.min.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\retina\retina\js\functions.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\retina\retina\css\style.css" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\retina\retina\index.html" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\default\js\modernizr.custom.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\default\js\jquery.carouFredSel-5.5.0-packed.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\default\js\jquery-1.8.0.min.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\default\js\functions.js" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\default\css\style.css" crc="1351719800"/>
+		<file name="D:\www\imagecity\templates\default\index.php" crc="1506678770"/>
+		<file name="D:\www\imagecity\templates\default\index.html" crc="1506677371"/>
+		<file name="D:\www\imagecity\modules\vendor\vendor_list.php" crc="1506939043"/>
+		<file name="D:\www\imagecity\modules\vendor\new_vendor.php" crc="1506944565"/>
+		<file name="D:\www\imagecity\modules\vendor\index.php" crc="1506694358"/>
+		<file name="D:\www\imagecity\modules\vendor\edit_vendor.php" crc="1506696127"/>
+		<file name="D:\www\imagecity\modules\company\new_reg.php" crc="1506947409"/>
+		<file name="D:\www\imagecity\modules\company\index.php" crc="1506945525"/>
+		<file name="D:\www\imagecity\modules\index.php" crc="1506696124"/>
+		<file name="D:\www\imagecity\email\src\SMTP.php" crc="1505673344"/>
+		<file name="D:\www\imagecity\email\src\POP3.php" crc="1505673344"/>
+		<file name="D:\www\imagecity\email\src\PHPMailer.php" crc="1505673344"/>
+		<file name="D:\www\imagecity\email\src\OAuth.php" crc="1505673344"/>
+		<file name="D:\www\imagecity\email\src\Exception.php" crc="1505673344"/>
+		<file name="D:\www\imagecity\classes\class_db.php" crc="1506683923"/>
+		<file name="D:\www\imagecity\index.php" crc="1506930889"/>
+		<file name="D:\www\imagecity\imagecity.sql" crc="1506948652"/>
+		<file name="D:\www\imagecity\.htaccess" crc="1506162096"/>
+	</filescache>
+</project>
